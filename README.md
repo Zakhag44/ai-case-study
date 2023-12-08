@@ -13,7 +13,7 @@
    -  **Paul Allen**
 
 * How did the idea for the company (or project) come about?
-
+ - 
 
 
 * How is the company funded? How much funding have they received?
@@ -35,3 +35,8 @@ the market size of this set of customers?
 > Per companiesmarketcap.com, as of December 2023 Microsoft has a market cap of $2.770 Trillion. 
 This makes Microsoft the world's second most valuable company by market
 cap according to our data.
+
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
