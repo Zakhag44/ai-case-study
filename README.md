@@ -12,7 +12,7 @@
    -  **Bill Gates** 
    -  **Paul Allen**
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the project come about?
  - Microsoft saw a need for a product that reduces cognitive load, time spent on 
 mundane tasks, and time spent looking for information in files and allows users
 to focus on more important items. [^1]
