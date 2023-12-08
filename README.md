@@ -20,7 +20,7 @@ to focus on more important items. [^1]
 
 
 * How is the company funded? How much funding have they received?
-Microsoft is a publically traded company. 
+  - Microsoft is a publicly traded company.
 
 ## Business Activities
 
