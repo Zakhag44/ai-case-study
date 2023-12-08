@@ -39,3 +39,9 @@ the market size of this set of customers?
 This makes Microsoft the world's second most valuable company by market
 cap according to our data.
 
+* What solution does this company offer that their competitors 
+do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Which technologies are they currently using, and how are 
+they implementing them? 
+
