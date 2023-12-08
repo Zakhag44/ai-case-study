@@ -41,6 +41,16 @@ cap according to our data.
 
 * What solution does this company offer that their competitors 
 do not or cannot offer? (What is the unfair advantage they utilize?)
+ - Microsoft has a massive subscriber base of over 76.7 million users. [^2]  This 
+gives them access to a wealth of data that can be used to further enhance their 
+Copilot product, especially for enterprise-level users. Companies that have 
+already integrated Windows into their operations are less likely to opt for 
+alternative solutions such as Open AI due to the high costs and time-consuming 
+process of integrating new software and vendors. This is why Microsoft Teams is 
+often the preferred choice over Slack for companies that have large contracts 
+with Microsoft.
+ [^2]: https://microsoft.com/en-us/investor/earnings/fy-2024-q1/press-release-webcast
+
 
 * Which technologies are they currently using, and how are 
 they implementing them? 
