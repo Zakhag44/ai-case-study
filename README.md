@@ -29,3 +29,9 @@ employees who use Microsoft products become more efficient. This solution
 elevates the concept of chatbots by incorporating natural language and other 
 artificial intelligence technologies, and is designed to streamline employees' 
 work with the help of an AI assistant.
+
+* Who is the company's intended customer? Is there any information about 
+the market size of this set of customers?
+> Per companiesmarketcap.com, as of December 2023 Microsoft has a market cap of $2.770 Trillion. 
+This makes Microsoft the world's second most valuable company by market
+cap according to our data.
