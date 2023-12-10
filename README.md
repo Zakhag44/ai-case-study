@@ -13,7 +13,7 @@
    -  **Paul Allen**
 
 #### How did the idea for the project come about?
- - Microsoft saw a need for a product that reduces cognitive load, time spent on 
+Microsoft saw a need for a product that reduces cognitive load, time spent on 
 mundane tasks, and time spent looking for information in files and allows users
 to focus on more important items. [^1]
  [^1]: https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/. 
@@ -25,7 +25,7 @@ to focus on more important items. [^1]
 ## Business Activities
 
 #### What specific problem is the company or project trying to solve?
-  - In recent years, many businesses have started incorporating chatbots into their 
+In recent years, many businesses have started incorporating chatbots into their 
 customer experiences. However, these chatbots have been limited in their ability 
 to assist employees. To address this, Microsoft has developed a solution to help 
 employees who use Microsoft products become more efficient. This solution 
@@ -39,7 +39,7 @@ This makes Microsoft the world's second most valuable company by market
 cap according to our data.
 
 #### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-  - Microsoft has a massive subscriber base of over 76.7 million users. [^2]  This 
+Microsoft has a massive subscriber base of over 76.7 million users. [^2]  This 
 gives them access to a wealth of data that can be used to further enhance their 
 Copilot product, especially for enterprise-level users. Companies that have 
 already integrated Windows into their operations are less likely to opt for 
@@ -57,7 +57,7 @@ with Microsoft.
 ## Landscape
 
 #### What field is the company in?
-  - Microsoft is in software development, hardware, and business solutions fields. They are split into three segments that include Productivity and Business Processes, Intelligent Clooud, and Personal Computing.   [^4]
+Microsoft is in software development, hardware, and business solutions fields. They are split into three segments that include Productivity and Business Processes, Intelligent Clooud, and Personal Computing.   [^4]
 [^4]: https://finance.yahoo.com/quote/MSFT/profile?p=MSFT
 
 #### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
@@ -76,7 +76,7 @@ This has major ramifications for Microsoft because not only does this technology
 ## Results
 
 #### What has been the business impact of this company so far?
- - Over the last four decades, Microsoft has revolutionized the Productivity space with the introduction of windows and other products. They have engrained themselves in many corporations that depend on them for their word processing, data analysis, and presentation software.  Revenue in 2024 1Q for the productivity and business segment
+Over the last four decades, Microsoft has revolutionized the Productivity space with the introduction of windows and other products. They have engrained themselves in many corporations that depend on them for their word processing, data analysis, and presentation software.  Revenue in 2024 1Q for the productivity and business segment
 just saw over $18.6 billion, and the cloud services segment and the Intelligent Cloud segment had $24.3 billion. [2]
 [^2]: https://microsoft.com/en-us/investor/earnings/fy-2024-q1/press-release-webcast
 
