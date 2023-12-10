@@ -57,6 +57,8 @@ with Microsoft.
 ## Landscape
 
 #### What field is the company in?
+  - Microsoft is in software development, hardware, and business solutions fields. They are split into three segments that include Productivity and Business Processes, Intelligent Clooud, and Personal Computing.   [^4]
+[^4]: https://finance.yahoo.com/quote/MSFT/profile?p=MSFT
 
 #### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
