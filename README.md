@@ -27,11 +27,8 @@ to focus on more important items. [^1]
 #### What specific problem is the company or project trying to solve?
 In recent years, many businesses have started incorporating chatbots into their 
 customer experiences. However, these chatbots have been limited in their ability 
-to assist employees. To address this, Microsoft has developed a solution to help 
-employees who use Microsoft products become more efficient. This solution 
-elevates the concept of chatbots by incorporating natural language and other 
-artificial intelligence technologies, and is designed to streamline employees' 
-work with the help of an AI assistant.
+to confidently assist users. To address this, Microsoft has developed a solution to help 
+Windows and GitHub users become more efficient by leveraging machine learning and natural language processing. Because of this Copilot elevates streamline employees end users by automatically completing tasks, syntesizing and communicating complex information, and even attending meetings and providing notes and take aways for the attendees. 
 
 #### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
