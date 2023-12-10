@@ -51,8 +51,11 @@ with Microsoft.
 
 
 #### Which technologies are they currently using, and how are they implementing them? 
-[^3]
-[^3]: https://www.forbes.com/sites/janakirammsv/2023/05/26/inside-microsoft-copilot-a-look-at-the-technology-stack/?sh=1519bf305b59
+> Microsoft Copilot for Microsoft 365 is an AI-powered productivity tool that coordinates large language models (LLMs), content in Microsoft Graph, and the Microsoft 365 apps that you use every day, such as Word, Excel, PowerPoint, Outlook, Teams, and others. This integration provides real-time intelligent assistance, enabling users to enhance their creativity, productivity, and skills.
+Microsoft Copilot for Microsoft 365 uses a combination of LLMs, a type of artificial intelligence (AI) algorithm that uses deep learning techniques and vast data sets to understand, summarize, predict, and generate content. These LLMs include pre-trained models, such as Generative Pre-Trained Transformers (GPT) like GPT-4, designed to excel in these tasks.[^3]
+[^3]:  https://learn.microsoft.com/en-us/microsoft-365-copilot/microsoft-365-copilot-overview
+
+Additionally, [OpenAI Codex](https://openai.com/blog/openai-codex) is used to power Microsfot Copilots. 
 
 ## Landscape
 
@@ -90,10 +93,25 @@ At an AI assistant level it is unknown at this time. Microsoft recently rolled o
 
 ## Recommendations
 
-#### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+#### If you were to advise the company, what products or services would you suggest they offer?
+
+As of right now Copilot is limited to just Windows and Github. One product I would recommend is creating a subscription browser based copilot that can take a multiple website such as yahoo finance and a company’s investor relations site to easily synthesize the most important pieces of a company profile and financial outlook. 
+
+The outputs could include a high level summary of the company and it’s financial and innovation outlook for the next 1-5 years based, relevant charts and graphs, list its potential competitors in each space they are conducting business in, and what the overall sentiment is for the company.
 
 #### Why do you think that offering this product or service would benefit the company?
 
+This product would help benefit the company because the majority of professionals, and students are familiar with windows products. Instead of looking for alternatives such as Chat-GPT, or other companies to synthesize this data with tools that are unfamiliar Microsoft could easily leverage their word processing, data, and presentation products to create the outputs in a visual manner that a vast majority of already have experience with. 
+
+Additionally, working in the professional field I am in and required to do competitive analysis, and company research for potential clients this would be something that my company would pay an enterprise license for without even blinking.
+
 #### What technologies would this additional product or service utilize?
+ - Existing Windows suite (Word, Excel, Powerpoint, Teams)
+ - GPT
+ - Machine Learning
+ - Natural Language Processing
+ - Java, Python, HTML, CSS, .Net
 
 #### Why are these technologies appropriate for your solution?
+
+These technologies are existing technologies being utilized by Microsoft and would make logical sense in order to get to market quickly and to scale. 
