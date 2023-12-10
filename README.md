@@ -83,7 +83,10 @@ just saw over $18.6 billion, and the cloud services segment and the Intelligent 
 
 #### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
+There are a couple metrics that Microsoft will be looking at, increase in revenue and it's active user count for their copilot products in Window's and GitHub. Because these new features became available in late 2023 there is no published data on success metrics at this time. 
+
 #### How is your company performing relative to competitors in the same field?
+At an AI assistant level it is unknown at this time. Microsoft recently rolled out the Copilot product and user adoption is currently unknown. 
 
 ## Recommendations
 
