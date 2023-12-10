@@ -62,6 +62,12 @@ with Microsoft.
 
 #### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
+AI has come a long way over the last decade, specifically assistance or better known as Chatbots. Machine learning and natural language processing has gone from completely dependent on human intervention to being almost entirely autonomous.
+
+To no surprise, chat-GPT has been all of the rage in 2023, and rightfully so. The technology behind chat-GPT has unlocked the potential for computers to sound more human in their responses,  complete complex tasks, synthesize and explain large data sets in the simplistic ways, and no longer completely dependent on humans to update responses. GPTs learn on their own with the data that is available wether it be the entire internet or for an enterprise such as Microsoft. 
+
+This has major ramifications for Microsoft because not only does this technology impact its window’s user but also the GitHub user base which impact over 100 millions users worldwide. Not only will Window’s users be able to delegate manual tasks to their AI assistance but developers world wide who have copilot of their own that help streamline their development.
+
 #### What are the other major companies in this field?
   - Google
   - OpenAI
@@ -70,6 +76,9 @@ with Microsoft.
 ## Results
 
 #### What has been the business impact of this company so far?
+ - Over the last four decades, Microsoft has revolutionized the Productivity space with the introduction of windows and other products. They have engrained themselves in many corporations that depend on them for their word processing, data analysis, and presentation software.  Revenue in 2024 1Q for the productivity and business segment
+just saw over $18.6 billion, and the cloud services segment and the Intelligent Cloud segment had $24.3 billion. [2]
+[^2]: https://microsoft.com/en-us/investor/earnings/fy-2024-q1/press-release-webcast
 
 #### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
