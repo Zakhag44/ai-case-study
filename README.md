@@ -34,6 +34,9 @@ artificial intelligence technologies, and is designed to streamline employees'
 work with the help of an AI assistant.
 
 #### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+
+The main target audiences for Microsoft Copilots will be its retail and enterprise Windows users, and developers for its GitHub Copilot offerings. 
+
 > Per companiesmarketcap.com, as of December 2023 Microsoft has a market cap of $2.770 Trillion. 
 This makes Microsoft the world's second most valuable company by market
 cap according to our data.
