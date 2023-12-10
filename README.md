@@ -55,7 +55,7 @@ with Microsoft.
 Microsoft Copilot for Microsoft 365 uses a combination of LLMs, a type of artificial intelligence (AI) algorithm that uses deep learning techniques and vast data sets to understand, summarize, predict, and generate content. These LLMs include pre-trained models, such as Generative Pre-Trained Transformers (GPT) like GPT-4, designed to excel in these tasks.[^3]
 [^3]:  https://learn.microsoft.com/en-us/microsoft-365-copilot/microsoft-365-copilot-overview
 
-Additionally, [OpenAI Codex](https://openai.com/blog/openai-codex) is used to power Microsfot Copilots. 
+Additionally, Copilot leverages [OpenAI Codex](https://openai.com/blog/openai-codex) technology that is mostly used for GitHub and most friendly with Pythong but is also proffiecent with JavaScript, Go, Perl, PHP, Ruby, Swift and TypeScript.
 
 ## Landscape
 
