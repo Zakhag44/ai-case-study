@@ -61,6 +61,9 @@ with Microsoft.
 #### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 #### What are the other major companies in this field?
+  - Google
+  - OpenAI
+  - Apple
 
 ## Results
 
