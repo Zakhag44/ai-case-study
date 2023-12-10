@@ -67,7 +67,7 @@ AI has come a long way over the last decade, specifically assistance or better k
 To no surprise, chat-GPT has been all of the rage in 2023, and rightfully so. The technology behind chat-GPT has unlocked the potential for computers to sound more human in their responses,  complete complex tasks, synthesize and explain large data sets in the simplistic ways, and no longer completely dependent on humans to update responses. GPTs learn on their own with the data that is available wether it be the entire internet or for an enterprise such as Microsoft. 
 
 This has major ramifications for Microsoft because not only does this technology impact its window’s user but also the GitHub user base which impact over 100 millions users worldwide. Not only will Window’s users be able to delegate manual tasks to their AI assistance but developers world wide who have copilot of their own that help streamline their development. [1]
-[1]:https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/
+[1]: https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/
 
 #### What are the other major companies in this field?
   - Google
