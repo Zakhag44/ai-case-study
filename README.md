@@ -25,10 +25,7 @@ to focus on more important items. [^1]
 ## Business Activities
 
 #### What specific problem is the company or project trying to solve?
-In recent years, many businesses have started incorporating chatbots into their 
-customer experiences. However, these chatbots have been limited in their ability 
-to confidently assist users. To address this, Microsoft has developed a solution to help 
-Windows and GitHub users become more efficient by leveraging machine learning and natural language processing. Because of this Copilot elevates streamline employees end users by automatically completing tasks, syntesizing and communicating complex information, and even attending meetings and providing notes and take aways for the attendees. 
+In recent years, many businesses have started incorporating chatbots into their customer experiences. However, these chatbots have been limited in their ability to confidently assist users. To address this, Microsoft has developed a solution to help Windows and GitHub users become more efficient by leveraging machine learning and natural language processing. Because of this Copilot elevates streamline employees end users by automatically completing tasks, syntesizing and communicating complex information, and even attending meetings and providing notes and take aways for the attendees. 
 
 #### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -39,13 +36,7 @@ This makes Microsoft the world's second most valuable company by market
 cap according to our data.
 
 #### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Microsoft has a massive subscriber base of over 76.7 million users. [^2]  This 
-gives them access to a wealth of data that can be used to further enhance their 
-Copilot product, especially for enterprise-level users. Companies that have 
-already integrated Windows into their operations are less likely to opt for 
-alternative solutions such as Open AI due to the high costs and time-consuming 
-process of integrating new software and vendors. This is why Microsoft Teams is 
-often the preferred choice over Slack for companies that have large contracts 
+Microsoft has a massive subscriber base of over 76.7 million users. [^2]  This gives them access to a wealth of data that can be used to further enhance their Copilot product, especially for enterprise-level users. Companies that have already integrated Windows into their operations are less likely to opt for alternative solutions such as [Open AI](https://openai.com/) due to the high costs and time-consuming process of integrating new software and vendors. This is why Microsoft Teams is often the preferred choice over Slack for companies that have large contracts 
 with Microsoft.
  [^2]: https://microsoft.com/en-us/investor/earnings/fy-2024-q1/press-release-webcast
 
@@ -103,13 +94,15 @@ The outputs could include a high level summary of the company and it’s financi
 
 This product would help benefit the company because the majority of professionals, and students are familiar with windows products. Instead of looking for alternatives such as Chat-GPT, or other companies to synthesize this data with tools that are unfamiliar Microsoft could easily leverage their word processing, data, and presentation products to create the outputs in a visual manner that a vast majority of already have experience with. 
 
-Additionally, working in the professional field I am in and required to do competitive analysis, and company research for potential clients this would be something that my company would pay an enterprise license for without even blinking.
+Additionally, working in the professional field I am required to do competitive analysis, and company research for potential clients and this would be something that I would find extremely helpful and my company would pay an enterprise license for without even blinking.
 
 #### What technologies would this additional product or service utilize?
  - Existing Windows suite (Word, Excel, Powerpoint, Teams)
  - GPT
+ - Azure
+ - [OpenAI Codex](https://openai.com/blog/openai-codex)
  - Machine Learning
- - Natural Language Processing
+ - Natural Language Processing/LLMs
  - Java, Python, HTML, CSS, .Net
 
 #### Why are these technologies appropriate for your solution?
